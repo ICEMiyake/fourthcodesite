@@ -1,0 +1,11 @@
+body{
+  background-color: beige;
+  width: 250px;
+}
+
+@media screen and (min-width: 600px) {
+  #navbar{
+    width: 100%;
+    text-align: left;
+  }
+}
